@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526099608744",
+    "project_id": "maas360androidtestdemo",
+    "storage_bucket": "maas360androidtestdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526099608744:android:438e5a858fc1870c94be9d",
+        "android_client_info": {
+          "package_name": "com.test.vinambek.crashworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526099608744-22s55bn0qjo8kdu7dsnlpf1bujdibkhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcQdLsWJp0zOJ4Ib93rqvuglAzeXmlG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526099608744-22s55bn0qjo8kdu7dsnlpf1bujdibkhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
