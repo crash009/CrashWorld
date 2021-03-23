@@ -27,4 +27,8 @@ public class MainActivity extends AppCompatActivity
     {
         throw new RuntimeException("Test Crash");
     }
+
+    public void makeANRClick(View view){
+        while (true);
+    }
 }

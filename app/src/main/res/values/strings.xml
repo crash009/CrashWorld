@@ -2,4 +2,5 @@
     <string name="app_name">CrashWorld</string>
     <string name="crash_me">Crash_Me!</string>
     <string name="crash_2">Crash_Me_2_!!!!</string>
+    <string name="crash_3">ANR</string>
 </resources>
